@@ -1,5 +1,6 @@
 __author__ = "Jay Browning"
 
-# this program will print "hello world!"
+# this program will accept a string from a user and print it back out again.  neat
 
-print('Git is awesome!')
+user_input = input(print('enter some text to be printed\n>>> '))
+print(user_input)
