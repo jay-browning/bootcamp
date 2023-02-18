@@ -1,0 +1,15 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, yes
+admin, finish task 26, finish writing code to update taskManager.py in accordance with the instructions set out for task 26, 15 Oct 2022, 14 Feb 2023, yes
+bob, do stuff, do things assigned by task_manager.py, 28 Dec 2022, 02 mar 2023, no
+bob, do more stuff, do more things assigned by this task_manager.py thing, 28 Dec 2022, 15 feb 2023, yes
+bob, moar tasks, do even moar tasks assigned by the evil task_master.py overlord, 28 Dec 2022, 19 jan 2023, Yes
+newuser, task1, the first task for newuser assigned by the increasingly omnipotent task_manger.py, 28 Dec 2022, 1 jan 2023, no
+bob2, daily duties, perform any required duties from duty list, 28 Dec 2022, 15 jan 2023, no
+newuser, another task, please enter a description of the task, 28 Dec 2022, 15 jan 2023, no
+newuser, yet another task, a descriptive description of the required task to be completed by the assigned user, 28 Dec 2022, 15 jan 2023, yes
+teri, onboarding, view onboarding materials, 24 Jan 2023, 26 feb 2023, No
+newname, newtask, do a new task as prescribed verbally from superior, 24 Jan 2023, 29 jan 2023, yes
+newname, taskinator, taskinate to the fullest, 15 Feb 2023, 21 mar 2023, No
+bob3, tasklicious, a piece of work to be done or undertaken, 15 Feb 2023, 21 mar 2023, No
+newname2, tasky, an activity, 15 Feb 2023, 21 mar 2023, No

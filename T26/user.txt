@@ -1,0 +1,8 @@
+admin, adm1n
+bob, bobpass
+newuser, newpass
+bob2, bob2pass
+bob3, bob3pass
+newname, newpass
+newname2, newpass
+teri, p4ssw0rd
